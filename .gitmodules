@@ -1,0 +1,3 @@
+[submodule "inline_syscall"]
+	path = inline_syscall
+	url = https://github.com/JustasMasiulis/inline_syscall.git
